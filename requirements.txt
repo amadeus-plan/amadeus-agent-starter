@@ -1,0 +1,5 @@
+livekit-plugins-aliyun
+livekit-plugins-volcengine
+livekit-agents[silero,cartesia,turn-detector,openai]~=1.0
+livekit-plugins-noise-cancellation~=0.2
+python-dotenv
